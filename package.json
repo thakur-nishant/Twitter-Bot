@@ -1,0 +1,29 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "bot runing on nodeJS server",
+  "main": "bot.js",
+  "scripts": {
+    "start" : "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakur-nishant/Twitter-Bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "nodeJS"
+  ],
+  "author": "Nishant Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thakur-nishant/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/thakur-nishant/Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
+
