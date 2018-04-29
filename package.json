@@ -4,7 +4,7 @@
   "description": "bot runing on nodeJS server",
   "main": "bot.js",
   "scripts": {
-    "start" : "node bot.js",
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/thakur-nishant/Twitter-Bot#readme",
   "dependencies": {
+    "hoek": "^5.0.3",
     "twit": "^2.2.9"
   }
 }
-
